@@ -1,1 +1,1 @@
-# Hello_World
+othelloプログラム（Ｃ＃2.0版）
